@@ -73,5 +73,4 @@ const AddUser = (props) => {
     </div>
   );
 };
-
 export default AddUser;
